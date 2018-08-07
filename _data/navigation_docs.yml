@@ -1,0 +1,25 @@
+- title: Getting Started
+  docs:
+  - tutorials/hello-blockstack
+  - installation
+  - quickstart
+  - windows
+
+- title: Authentication
+  docs:
+  - frontmatter
+  - posts
+  - drafts
+  - pages
+
+- title: Customization
+  docs:
+  - usage
+  - structure
+  - configuration
+
+- title: GAIA
+  docs:
+  - variables
+  - collections
+  - assets

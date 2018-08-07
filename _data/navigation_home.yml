@@ -1,0 +1,31 @@
+# Categories home page navigation
+
+- title: Learn About Blockstack
+  desc: Learn the basics of Bloc
+  icon: settings
+  doc: basics
+
+- title: Use the New Internet
+  desc: Learn the basics of Bloc
+  icon: settings
+  doc: user
+
+- title: Develop Applications
+  desc: Learn the basics of Bloc
+  icon: settings
+  doc: tutorials/hello-blockstack
+
+- title: Use the Naming Service
+  desc: Managing your account, creating new users and exporting data
+  icon: credit-card
+  doc: naming
+
+- title: Implement Authentication
+  desc: Managing your account, creating new users and exporting data
+  icon: credit-card
+  doc: authentication
+
+- title: Implement Storage with GAIA
+  desc: Backend storage drivers and interactions between developer APIs and the Gaia service.
+  icon: cog
+  doc: storage
