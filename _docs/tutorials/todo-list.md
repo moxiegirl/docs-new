@@ -89,7 +89,7 @@ The example application runs in a node server on your local host. In the next se
 
     You should see a simple application:
 
-    ![](images/todo-sign-in.png)
+    ![](/images/todo-sign-in.png)
 
  2. Choose **Sign In with Blockstack**.
 
@@ -102,21 +102,21 @@ about this later. What the authenticator displays depends on which whether the u
 
 | Client edition installed | Not installed |
 |------------------|-----------------------------------|
-| ![](images/login.gif)  | ![](images/login-choice.png)|
+| ![](/images/login.gif)  | ![](/images/login-choice.png)|
 
 If the user was logged into the Blockstack authenticator (web or client) but
 did not reset it, the web application to use the current identity:
 
-![](images/login-no-auth.png)
+![](/images/login-no-auth.png)
 
 If the user chooses **Deny**, the Blockstack authenticator opens but the user
 is not logged into the sample application.
 
-![](images/windows-browser.png)
+![](/images/windows-browser.png)
 
 If the login to the application is successful, the user is presented with the application:
 
-![](images/todo-app.png)
+![](/images/todo-app.png)
 
 Clicking the **Sign In With Blockstack** button brings up a modal that prompts
 you to use an existing ID's session, create a new ID, or reset the browser with
@@ -221,7 +221,7 @@ The method allows the application creator to decide where to redirect the user u
 
 Now trying adding a few todos using the application. For example, try making a list of applications you want to see built on top of Blockstack:
 
-![](images/make-a-list.png)
+![](/images/make-a-list.png)
 
 Each list is immediately stored in the Gaia Hub linked to your Blockstack ID.
 For more information about the Gaia hub, see the [hub

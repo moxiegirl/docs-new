@@ -1,25 +1,16 @@
-- title: Getting Started
+- title: Try DApp Development
   docs:
-  - tutorials/hello-blockstack
   - installation
   - quickstart
   - windows
 
-- title: Authentication
+- title: Tutorials
   docs:
-  - frontmatter
-  - posts
-  - drafts
-  - pages
+  - tutorials/hello-blockstack
+  - tutorials/multi-player-storage
 
-- title: Customization
+- title: Reference
   docs:
   - usage
   - structure
   - configuration
-
-- title: GAIA
-  docs:
-  - variables
-  - collections
-  - assets

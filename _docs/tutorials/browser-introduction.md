@@ -77,14 +77,14 @@ Installation requires that you have macOS High Sierra 10.12 or higher. Do the fo
 1. Download the OSX installer from from <a href="https://blockstack.org/install" target="_blank">the browser installation page</a>.
 2. Double-click the downloaded DMG file to launch the installer.
 
-   ![](images/ubuntu-browser.png)
+   ![](/images/ubuntu-browser.png)
 
 3. Drag the Blockstack.app to the `Applications` folder.
 4. Double-click the Blockstack.app to launch it.
 
    The system displays a notice about opening the file:
 
-   ![](images/dmg-notice.png)
+   ![](/images/dmg-notice.png)
 
 5. Choose **Open**.
 
@@ -92,12 +92,12 @@ Installation requires that you have macOS High Sierra 10.12 or higher. Do the fo
    application, running from your machine (localhost). You'll also see the
    Blockstack icon in your machine's
 
-   ![](images/browser-on-mac.png)
+   ![](/images/browser-on-mac.png)
 
    If you have loaded an identity already via the Blockstack web application,
    you are already logged into the local application:
 
-   ![](images/browser-on-mac-1.png)
+   ![](/images/browser-on-mac-1.png)
 
 
 ### On Windows
@@ -108,21 +108,21 @@ install:
 1. Download the Windows installer from from <a href="https://blockstack.org/install" target="_blank">the browser installation page</a>.
 2. Double-click the installer package to launch it.
 
-   ![](images/windows-installer.png)
+   ![](/images/windows-installer.png)
 
 3. Open the Wiindows **Start** menu and click on the recently added **Blockstack Authenticator**.
 
-   ![](images/windows-start.png)
+   ![](/images/windows-start.png)
 
    The system displays a Windows Security Alert.
 
-   ![](images/windows-security.png)
+   ![](/images/windows-security.png)
 
 4. Choose to **Allow access**.
 
    The system opens in the Blockstack Authenticator application.
 
-    ![](images/windows-browser.png)
+    ![](/images/windows-browser.png)
 
 
 ### On Linux
@@ -193,7 +193,7 @@ the version of Docker appropriate for your operating system</a>.
     The system launches the Blockstack Authenticator application for you.
 
 
-    ![](images/ubuntu-browser.png)
+    ![](/images/ubuntu-browser.png)
 
 
 Until you stop the Blockstack containers, the application will continue to run on your system. To display the status of the Blockstack containers, you can use the `docker container ls` command.
@@ -214,11 +214,11 @@ your operating system.
 
 1. Quit the Blockstack application if it is running.
 
-   ![](images/quit-blockstack.png)
+   ![](/images/quit-blockstack.png)
 
 2. Check if you have a Blockstack device and eject it if you do.
 
-   ![](images/eject-blockstack.png)
+   ![](/images/eject-blockstack.png)
 
 3. Use the Finder to open the **Applications** folder.
 4. Locate the Blockstack application.
@@ -238,11 +238,11 @@ your operating system.
 2. Click **Settings > System**.
 3. Open for the **Apps & features** item.
 
-   ![](images/eject-blockstack.png)
+   ![](/images/eject-blockstack.png)
 
 4. Locate the **Blockstack Authenticator** and choose **Uninstall**.
 
-   ![](images/browser-uninstall.png)
+   ![](/images/browser-uninstall.png)
 
 
 ### On Linux

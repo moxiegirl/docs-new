@@ -66,7 +66,7 @@ To create an inititial Blockstack ID, do the following:
 
    The application prompts you for an email address.
 
-   ![](images/create-id-0.png)
+   ![](/images/create-id-0.png)
 
    Blockstack uses this email address to send you recovery information.
 
@@ -80,7 +80,7 @@ To create an inititial Blockstack ID, do the following:
 
 3. Enter a password, confirm it, and press **Next**.
 
-   ![](images/create-id-1.png)
+   ![](/images/create-id-1.png)
 
    The browser prompts you to register a unique username in the `id.blockstack`
    domain. This is your identity in the decentralized internet. The format of the id
@@ -92,11 +92,11 @@ To create an inititial Blockstack ID, do the following:
 
 3.  Enter a unique username and press **Check Availability**.
 
-    ![](images/create-id-2.png)
+    ![](/images/create-id-2.png)
 
     When you choose an ID that is available, the system responds with the following:
 
-    ![](images/create-id-3.png)
+    ![](/images/create-id-3.png)
 
 4.  Press **Continue**.
 
@@ -139,7 +139,7 @@ not accessible by anyone.
 
    The recovery key is a squence of words.
 
-   ![](images/recovery-code.png)
+   ![](/images/recovery-code.png)
 
 4. Press **Next**.
 
@@ -160,7 +160,7 @@ not accessible by anyone.
 
    The system welcomes you back.
 
-   ![](images/welcome-back.png)
+   ![](/images/welcome-back.png)
 
    At this point, you can go onto work with Dapps or you can review your recovery key.
 
@@ -176,7 +176,7 @@ not accessible by anyone.
 
   The recovery code is an encrypted string.
 
-  ![](images/recovery-code.png)
+  ![](/images/recovery-code.png)
 
 4. Press **Next**.
 
@@ -196,6 +196,6 @@ not accessible by anyone.
 
   The system welcomes you back.
 
-  ![](images/welcome-back.png)
+  ![](/images/welcome-back.png)
 
   At this point, you can go work with Dapps or you can review your recovery key.

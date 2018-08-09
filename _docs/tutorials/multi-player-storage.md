@@ -1,4 +1,5 @@
 ---
+layout: doc
 title: Multi-player Storage Tutorial
 description: Build a decentralized micro-blogging app using multi-player storage in Gaia.
 image: /images/tutorials/multi-player-storage.png
@@ -141,7 +142,7 @@ In this section, you build an initial React.js application called Publik.
 
     The system prompts you to accept incoming connections.
 
-    ![Network Connection](./images/network-connections.gif)
+    ![Network Connection](/images/network-connections.gif)
 
 6. Choose **Allow**.
 
@@ -149,13 +150,13 @@ In this section, you build an initial React.js application called Publik.
 
    You should see a simple React app.
 
-	 ![](images/initial-app.gif)
+	 ![](/images/initial-app.gif)
 
 8. Choose **Sign In with Blockstack**.
 
     The application tells you it will **Read your basic info**.
 
-    ![](images/login.png)
+    ![](/images/login.png)
 
 Leave your new application running and move onto the next section.
 
@@ -200,7 +201,7 @@ Modify your authentication request to include the `publish_data` scope.
     The authentication request now prompts the user for permission to **Publish
     data stored for the app**.
 
-     ![](images/publish-data-perm.png)
+     ![](/images/publish-data-perm.png)
 
 ## Understand Gaia storage methods
 
@@ -249,7 +250,7 @@ single file for all list you have less control over file permissions. To avoid
 these issues, you can create an index file that stores an array of IDs. These
 IDs point to a name of another file in a `grocerylists` folder.
 
-![](images/multiple-lists.png)
+![](/images/multiple-lists.png)
 
 This design allows you to get only the files you need and avoid accidentally
 overwriting all lists. Further, you’re only updating the index file when you add
@@ -431,7 +432,7 @@ In this step, you add three `blockstack.js` methods that support posting of "sta
 
    After the application compiles successfully, your application should appears as follows:
 
-   ![](images/display-complete.png)
+   ![](/images/display-complete.png)
 
 10. Enter your status in the text box and press the **Submit** button.
 
@@ -496,7 +497,7 @@ Update `Profile.jsx` again.
     After the application compiles successfully, users are able to **Submit**
     multiple statuses and review them in the app.
 
-    ![](images/saving-status.png)
+    ![](/images/saving-status.png)
 
 ## Change the style
 
