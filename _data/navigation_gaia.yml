@@ -1,18 +1,18 @@
 - title: About
-  gaia:
-  - overview
-  - control
-  - writeread
-  - access
+  docs:
+  - gaia/overview
+  - gaia/control
+  - gaia/writeread
+  - gaia/access
 
 - title: Tutorials
-  gaia:
-  - hello-gaia
-  - media
-  - sharing
+  docs:
+  - gaia/hello-gaia
+  - gaia/media
+  - gaia/sharing
 
 - title: How to
-  gaia:
-  - run-hub
-  - configure
-  - test
+  docs:
+  - gaia/run-hub
+  - gaia/configure
+  - gaia/test

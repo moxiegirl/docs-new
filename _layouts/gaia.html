@@ -7,14 +7,23 @@ layout: default
         <div class="uk-grid-large" data-uk-grid>
 
             <div class="sidebar-fixed-width uk-visible@m">
-                <div class="sidebar-gaia uk-position-fixed">
+                <div class="sidebar-docs uk-position-fixed">
                     {% for section in site.data.navigation_gaia %}
                     <h5>{{ section.title }}</h5>
                     <ul class="uk-nav uk-nav-default doc-nav">
-                    {% for doc in section.gaia %}
-                      {% assign doc_url = doc | prepend:"/gaia/" | append:"/" %}
-                      {% assign p = site.gaia | where:"url", doc_url | first %}
-                      <li class="{% if doc_url == page.url %}uk-active{% endif %}"><a href="{{ p.url }}">{{ p.title }}</a></li>
+                    {% for doc in section.docs %}
+                      {% assign doc_url = doc | prepend:"/" | append:"/" %}
+                      <!-- {% assign p =  site.docs | where:"url", doc_url | first %} -->
+                      {% for col in site.collections %}
+                        {% for item in col.docs %}
+                            {% if item.url == doc_url %}
+                                 {% assign doc_title = item.title %}
+                             {% else %}
+                               {% comment %}Do nothing{% endcomment %}
+                             {% endif %}
+                        {% endfor %}
+                      {% endfor %}
+                      <li class="{% if doc_url == page.url %}uk-active{% endif %}"><a href="{{ doc_url }}">{{ doc_title }}</a></li>
                     {% endfor %}
                     </ul>
                     {% endfor %}

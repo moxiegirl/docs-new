@@ -1,6 +1,6 @@
 ---
 layout: learn
-title: Blockchain Identity
+title: Identity
 description: Learn about what blockchain identities are and what they can be used for.
 date: March 22, 2016
 ---

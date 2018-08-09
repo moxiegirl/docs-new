@@ -1,4 +1,9 @@
-# Get and use a Blockstack IDs
+---
+layout: newinternet
+title: Get and use a Blockstack IDs
+description: Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor.
+image: /images/article-photos/chalkboard.jpg
+---
 
 Through the Blockstack browser you can create an identity. Your identity is a
 point of contact as you interact with others through Dapps. Others may be

@@ -1,0 +1,10 @@
+- title: Introduction
+  docs:
+  - newinternet/overview
+  - newinternet/privacy
+
+- title: Get started
+  docs:
+  - newinternet/browser-introduction
+  - newinternet/ids-introduction
+  - newinternet/findapps

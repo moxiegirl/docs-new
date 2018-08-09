@@ -1,15 +1,9 @@
 ---
-title: Privacy Policy
+layout: newinternet
+title: Your privacy with a DApp
 description: The privacy policy for blockstack.org
 image: /images/article-photos/chalkboard.jpg
 ---
-
-Effective Date: October 12, 2017
-
-This Privacy Policy is incorporated by this reference into the Blockstack PBC Terms of Use (the “TOU”). The terms “Blockstack,” “we,” “our” and “us” include Blockstack PBC and our affiliates and subsidiaries. All other capitalized terms not defined in this Privacy Policy will have the meanings set forth in the TOU. This Privacy Policy explains how Blockstack may collect, use, and disclose information we obtain through the Site.
-
-### When Blockstack Collects Your Information
-
 Mailing List Sign-Up. We collect your email address when you sign up on the Site to receive updates about upcoming product launches.
 
 Customer Support. We collect information that you provide to us through your communications with our customer-support team.

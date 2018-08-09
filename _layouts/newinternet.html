@@ -8,7 +8,7 @@ layout: default
 
             <div class="sidebar-fixed-width uk-visible@m">
                 <div class="sidebar-docs uk-position-fixed">
-                    {% for section in site.data.navigation_learn %}
+                    {% for section in site.data.navigation_newinternet %}
                     <h5>{{ section.title }}</h5>
                     <ul class="uk-nav uk-nav-default doc-nav">
                     {% for doc in section.docs %}
@@ -51,7 +51,7 @@ layout: default
 
                     {% include paginate-doc.html %}
 
-                    {% include related-learn.html %}
+                    {% include related-newinternet.html %}
 
                     {% if site.disqus.shortname %} {% include disqus_comments.html %} {% endif %}
                 </article>

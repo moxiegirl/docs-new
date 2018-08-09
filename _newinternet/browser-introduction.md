@@ -1,4 +1,9 @@
-# Use the Blockstack Authenticator
+---
+layout: newinternet
+title: Use the Authenticator
+description: Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor.
+image: /images/article-photos/chalkboard.jpg
+---
 
 The Blockstack Authenticator gives users the ability to explore and use the
 decentralized applications (dapps). The decentralized applications are a new way
@@ -192,15 +197,16 @@ the version of Docker appropriate for your operating system</a>.
 
     The system launches the Blockstack Authenticator application for you.
 
-
     ![](/images/ubuntu-browser.png)
 
 
 Until you stop the Blockstack containers, the application will continue to run on your system. To display the status of the Blockstack containers, you can use the `docker container ls` command.
 
+{% raw %}
 ```bash
 $ sudo docker container ls --format '{{.ID}}\t{{.Image}}\t{{.Status}}\t{{.Ports}}\t{{.Names}}'
 ```
+{% endraw %}
 
 Use `./Blockstack-for-Linux-vO.30.0.sh stop` to stop the Blockstack Authenticator and its containers.
 

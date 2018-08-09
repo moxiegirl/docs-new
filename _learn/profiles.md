@@ -1,6 +1,6 @@
 ---
 layout: learn
-title: Blockstack Profiles
+title: Profiles
 description: Explore about identity attestations on Blockstack.
 ---
 

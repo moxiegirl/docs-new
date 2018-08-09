@@ -12,4 +12,5 @@
 
 - title: Reference
   docs:
-  - apis/jsdocs
+  - apis/jsdocs/index
+  
