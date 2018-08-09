@@ -95,6 +95,8 @@ sass:
   style:            compressed
 
 collections:
+  apis:
+    output: true
   docs:
     output: true
   gaia:

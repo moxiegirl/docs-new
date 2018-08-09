@@ -1,18 +1,15 @@
 - title: Try DApp Development
   docs:
-  - about
-  - decide
-  - idea
-  - build
-  - register
+  - docs/decide
+  - docs/idea
+  - docs/build
+  - docs/register
 
 - title: Try an example
   docs:
-  - tutorials/hello-blockstack
-  - tutorials/multi-player-storage
+  - docs/tutorials/hello-blockstack
+  - docs/tutorials/multi-player-storage
 
 - title: Reference
-  apis:
-  - jsdocs
-  - structure
-  - configuration
+  docs:
+  - apis/jsdocs

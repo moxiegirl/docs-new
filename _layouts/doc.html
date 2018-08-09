@@ -12,9 +12,18 @@ layout: default
                     <h5>{{ section.title }}</h5>
                     <ul class="uk-nav uk-nav-default doc-nav">
                     {% for doc in section.docs %}
-                      {% assign doc_url = doc | prepend:"/docs/" | append:"/" %}
-                      {% assign p = site.docs | where:"url", doc_url | first %}
-                      <li class="{% if doc_url == page.url %}uk-active{% endif %}"><a href="{{ p.url }}">{{ p.title }}</a></li>
+                      {% assign doc_url = doc | prepend:"/" | append:"/" %}
+                      <!-- {% assign p =  site.docs | where:"url", doc_url | first %} -->
+                      {% for col in site.collections %}
+                        {% for item in col.docs %}
+                            {% if item.url == doc_url %}
+                                 {% assign doc_title = item.title %}
+                             {% else %}
+                               {% comment %}Do nothing{% endcomment %}
+                             {% endif %}
+                        {% endfor %}
+                      {% endfor %}
+                      <li class="{% if doc_url == page.url %}uk-active{% endif %}"><a href="{{ doc_url }}">{{ doc_title }}</a></li>
                     {% endfor %}
                     </ul>
                     {% endfor %}
