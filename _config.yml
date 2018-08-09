@@ -19,7 +19,7 @@ url:                "https://docs.jekyll.plus"
 
 # Site logo, image or text
 brand:
-    image:          touch-icon.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
+    image:          logo.png  # e.g. logo.png, upload logo image file to /assets/img/ folder
     text:           Docs      # if the above "logo:" image variable  is not set, this text logo is displayed instead
 
 # Default author settings

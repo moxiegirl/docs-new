@@ -1,16 +1,18 @@
 - title: Try DApp Development
   docs:
-  - installation
-  - quickstart
-  - windows
+  - about
+  - decide
+  - idea
+  - build
+  - register
 
-- title: Tutorials
+- title: Try an example
   docs:
   - tutorials/hello-blockstack
   - tutorials/multi-player-storage
 
 - title: Reference
-  docs:
-  - usage
+  apis:
+  - jsdocs
   - structure
   - configuration
