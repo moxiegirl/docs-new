@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Build a sample application
+title: Build the Icebreaker application
 subtitle: Vestibulum ante ipsum primis orci luctus et ultrices posuere cubilia Curae.
 tags: featured
 ---

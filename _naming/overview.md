@@ -1,8 +1,9 @@
 ---
-layout: newinternet
-title: Understand the service
+layout: naming
+title: What is the Blockstack Naming Service?
 subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-tags: featured othertag
+author:
+tags: othertag
 ---
 
 The Blockstack Naming Service (BNS) is a network system that binds names
@@ -37,5 +38,4 @@ The biggest consequence for developers is that in BNS, reading name state is
 fast and cheap but writing name state is slow and expensive.  This is because
 registering and modifying names requires one or more transactions to be sent to
 the underlying blockchain, and BNS nodes will not process them until they are
-sufficiently confirmed.  Users and developers need to acquire and spend
-the requisite cryptocurrency (i.e. Bitcoin) to send BNS transactions.
+sufficiently confirmed.  Users and developers need to acquire and spend the requisite cryptocurrency (i.e. Bitcoin) to send BNS transactions.

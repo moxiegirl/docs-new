@@ -1,11 +1,12 @@
-- title: Try DApp Development
+- title: App Development Tutorial
   docs:
+  - docs/about
   - docs/decide
   - docs/idea
   - docs/build
   - docs/register
 
-- title: Try an example
+- title: Feature examples
   docs:
   - docs/tutorials/hello-blockstack
   - docs/tutorials/multi-player-storage
@@ -13,4 +14,3 @@
 - title: Reference
   docs:
   - apis/jsdocs/index
-  

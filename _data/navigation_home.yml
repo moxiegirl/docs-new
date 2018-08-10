@@ -1,24 +1,24 @@
 # Categories home page navigation
 
-- title: Learn About Blockstack
-  desc: Learn the basics of Bloc
+- title: Evaluate Blockstack
+  desc: Learn about the technology behind Blockstack. Understand the value it offers and how it provides it.
   icon: settings
   doc: learn/overview
 
 - title: Use the New Internet
-  desc: Learn the basics of Bloc
+  desc: Learn about the New Internet and its applications. Create an identity and learn how to use it.
   icon: settings
   doc: newinternet/privacy
 
-- title: Develop Applications
-  desc: Learn the basics of Bloc
+- title: Build Apps and Earn Money
+  desc: Learn how to build an application that earns with Blockstack.
   icon: settings
   doc: docs/tutorials/hello-blockstack
 
 - title: Use the Naming Service
-  desc: Managing your account, creating new users and exporting data
+  desc: Managing your account, create new users and exporting data
   icon: credit-card
-  doc: naming
+  doc: naming/overview
 
 - title: Implement Authentication
   desc: Managing your account, creating new users and exporting data

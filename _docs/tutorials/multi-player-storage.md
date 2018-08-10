@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Multi-player Storage Tutorial
+title: Storage and Profile Management
 description: Build a decentralized micro-blogging app using multi-player storage in Gaia.
 image: /images/tutorials/multi-player-storage.png
 youtube: https://www.youtube.com/embed/w7Sa54H-CGg

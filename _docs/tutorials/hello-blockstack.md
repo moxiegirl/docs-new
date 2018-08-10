@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Hello Blockstack Tutorial
+title: Build and Authentication
 categories: [Getting Started, Authentication]
 subtitle: Start here to learn the basics of building with Blockstack and authenticating users with Blockstack.js.
 tags: featured othertag
