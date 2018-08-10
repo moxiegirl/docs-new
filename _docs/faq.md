@@ -2,10 +2,29 @@
 layout: doc
 title: Frequently asked questions
 subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-tags: featured
 ---
 
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+	- [I'm a Web developer.  Can I build on Blockstack?](#im-a-web-developer-can-i-build-on-blockstack)
+	- [I'm a non-Web developer.  Can I build on Blockstack?](#im-a-non-web-developer-can-i-build-on-blockstack)
+	- [What's the difference between a Web app and a Blockstack app?](#whats-the-difference-between-a-web-app-and-a-blockstack-app)
+	- [Do I need to learn any new languages or frameworks?](#do-i-need-to-learn-any-new-languages-or-frameworks)
+	- [How does my Web app interact with Blockstack?](#how-does-my-web-app-interact-with-blockstack)
+	- [What does `blockstack.js` do?](#what-does-blockstackjs-do)
+	- [How do I use `blockstack.js`?](#how-do-i-use-blockstackjs)
+	- [How can I look up names and profiles?](#how-can-i-look-up-names-and-profiles)
+	- [How can I read my public app data without `blockstack.js`?](#how-can-i-read-my-public-app-data-without-blockstackjs)
+	- [How do I register Blockstack IDs?](#how-do-i-register-blockstack-ids)
+	- [How do I register Blockstack Subdomains?](#how-do-i-register-blockstack-subdomains)
+	- [Can I programmatically register Blockstack IDs?](#can-i-programmatically-register-blockstack-ids)
+	- [Can I programmatically register Blockstack Subdomains?](#can-i-programmatically-register-blockstack-subdomains)
+	- [Do you have a testnet or sandbox to experiment with Blockstack?](#do-you-have-a-testnet-or-sandbox-to-experiment-with-blockstack)
+	- [Does Blockstack have a smart contract system?](#does-blockstack-have-a-smart-contract-system)
+	- [Can Blockstack applications interact with Bitcoin? Ethereum? Smart contracts? Other blockchains?](#can-blockstack-applications-interact-with-bitcoin-ethereum-smart-contracts-other-blockchains)
+	- [Do you have a Blockstack app development tutorial?](#do-you-have-a-blockstack-app-development-tutorial)
+
+<!-- /TOC -->
 
 ## I'm a Web developer.  Can I build on Blockstack?
 

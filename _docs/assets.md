@@ -3,7 +3,6 @@ layout: doc
 title: How To Setup Domain SSL With Github Pages
 categories: [Getting Started, GAIA]
 author: John Black
-tags: featured
 ---
 
 #### Sections in this article

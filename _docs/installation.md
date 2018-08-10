@@ -3,7 +3,6 @@ layout: doc
 title: Getting started with our application
 subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
 author:
-tags: featured
 ---
 
 #### Sections in this article

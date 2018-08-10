@@ -84,15 +84,15 @@ title: blockstack JS 18.0.4
                 <a class="uk-navbar-toggle uk-search-icon uk-icon" uk-search-icon="" href="#"><svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" ratio="1"><circle fill="none" stroke="#000" stroke-width="1.1" cx="9" cy="9" r="7"></circle><path fill="none" stroke="#000" stroke-width="1.1" d="M14,14 L18,18 L14,14 Z"></path></svg></a>
                 <div class="uk-drop uk-background-default uk-border-rounded" uk-drop="mode: click; pos: left-center; offset: 0">
                     <form class="uk-search uk-search-navbar uk-width-1-1" onsubmit="return false;">
-                        <input id="navbar-search" class="uk-search-input" type="search" placeholder="Search..." autofocus="">
+                        <input id="searchBox" class="uk-search-input" type="search" placeholder="Search..." autofocus="">
                     </form>
-                    <ul id="navbar-search-results" class="uk-position-absolute uk-width-1-1 uk-list"></ul>
+                    <ul id="searchBox-results" class="uk-position-absolute uk-width-1-1 uk-list"></ul>
                 </div>
             </div>
             <script>
             SimpleJekyllSearch({
-                searchInput: document.getElementById('navbar-search'),
-                resultsContainer: document.getElementById('navbar-search-results'),
+                searchInput: document.getElementById('searchBox'),
+                resultsContainer: document.getElementById('searchBox-results'),
                 noResultsText: '<li>No results found</li>',
                 searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
                 json: '/search.json'

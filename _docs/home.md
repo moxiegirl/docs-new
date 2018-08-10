@@ -2,7 +2,6 @@
 layout: doc
 title: Hello Blockstack
 subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-tags: featured othertag
 ---
 
 #### Sections in this article

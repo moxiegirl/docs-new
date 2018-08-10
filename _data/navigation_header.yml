@@ -1,12 +1,9 @@
 # Navbar menu navigation links
-- title: Help
-  url: /
+- title: Organization
+  url: https://blockstack.org
 
 - title: News
   url: /news/
-
-- title: Changelog
-  url: /changelog/
 
 - title: Contact
   url: /contact/

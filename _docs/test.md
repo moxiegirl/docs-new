@@ -2,7 +2,6 @@
 layout: doc
 title: TEST
 subtitle: Vestibulum ante ipsum primis orci luctus et ultrices posuere cubilia Curae.
-tags: featured
 ---
 
 

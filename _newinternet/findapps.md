@@ -3,6 +3,7 @@ layout: newinternet
 title: Finding applications
 description: Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor.
 image: /images/article-photos/chalkboard.jpg
+tags: featured
 ---
 #### Sections in this article
 {:.no_toc}

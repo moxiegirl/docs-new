@@ -302,7 +302,7 @@ ul.doc-nav {
         }
     }
     .section-hero {
-        .hero-search {
+        .searchBox {
             max-width: 550px;
             margin: 60px auto 0 auto;
             .uk-search-input {
@@ -351,7 +351,7 @@ ul.doc-nav {
         margin-top: $global-medium-margin;
         margin-bottom: $global-medium-margin;
     }
-    #hero-search-results, #navbar-search-results {
+    #searchBox-results, #searchBox-results {
         margin: 10px 0 0 0;
         z-index: 1;
         li {
