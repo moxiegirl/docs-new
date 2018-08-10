@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Find an idea
+title: Find an idea and funding
 subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
 author:
 tags: othertag
