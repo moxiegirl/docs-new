@@ -1,11 +1,9 @@
 ---
-layout: gaia
-title: Hello Gaia
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-tags: featured
-author:
+layout: newinternet
+title: Your responsibilities
+description: Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor.
+image: /images/article-photos/chalkboard.jpg
 ---
-
 #### Sections in this article
 {:.no_toc}
 * TOC

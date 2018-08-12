@@ -17,12 +17,12 @@
 
 - title: Use the Naming Service
   desc: Managing your account, create new users and exporting data
-  icon: credit-card
+  icon: cog
   doc: naming/overview
 
 - title: Implement Authentication
   desc: Managing your account, creating new users and exporting data
-  icon: credit-card
+  icon: cog
   doc: auth/overview
 
 - title: Implement Storage with GAIA

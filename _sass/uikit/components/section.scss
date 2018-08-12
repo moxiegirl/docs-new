@@ -64,8 +64,10 @@ $section-secondary-color-mode:                     light !default;
 @media (min-width: $breakpoint-medium) {
 
     .uk-section {
-        padding-top: $section-padding-vertical-m;
-        padding-bottom: $section-padding-vertical-m;
+        // padding-top: $section-padding-vertical-m;
+        // padding-bottom: $section-padding-vertical-m;
+        padding-top: 15px;
+        padding-bottom: 15px;
     }
 
 }

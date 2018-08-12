@@ -17,6 +17,11 @@ permalink:          /:title/
 # Site base hostname & protocol, e.g. http://example.com
 url:                "https://docs.jekyll.plus"
 
+
+github_editme_path: moxiegirl/docs-new/blob/master/
+# if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
+
+
 # Site logo, image or text
 brand:
     image:          logo.png  # e.g. logo.png, upload logo image file to /assets/img/ folder

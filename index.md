@@ -2,13 +2,13 @@
 layout: home
 hero:
     title: What would you like to know?
-    subtitle: Search or browse in depth articles and videos on everything Blockstack, from ID setup and to development and API references
+    subtitle: Welcome to the documentation on everything Blockstack.
     image: touch-icon.png
     search: true
 categories:
     columns: 3
-    title: Browse Topics
-    subtitle: Get your answers fast, jump to most popular documentation content
+    title: Browse by topic or technology category
+    subitle:
 featured:
     title: Popular Articles
     tag: featured
