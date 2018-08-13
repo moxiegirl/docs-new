@@ -18,7 +18,7 @@ permalink:          /:title/
 url:                "https://docs.jekyll.plus"
 
 
-github_editme_path: moxiegirl/docs-new/blob/master/
+github_editme_path: moxiegirl/docs-new/blob/master
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 
@@ -59,7 +59,7 @@ twitter_username:
 
 # Default footer image settings
 footer:
-    copyright:      Made by a <a href="https://ivanchromjak.com/">human</a> somewhere on the planet earth.
+    copyright:      Blockstack
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:

@@ -6,7 +6,7 @@
 
 - title: Get started
   docs:
-  - newinternet/install
   - newinternet/browser-introduction
   - newinternet/ids-introduction
   - newinternet/findapps
+  - newinternet/install

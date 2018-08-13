@@ -1,9 +1,9 @@
 # Navbar menu navigation links
-- title: Organization
+- title: Blockstack.org
   url: https://blockstack.org
 
-- title: News
-  url: /news/
+- title: Forums
+  url: forum.blockstack.org
 
-- title: Contact
-  url: /contact/
+- title: GitHub
+  url: https://github.com/blockstack

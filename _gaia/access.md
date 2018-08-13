@@ -2,7 +2,7 @@
 layout: gaia
 title: Address-based Access-Control
 subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-tags: othertag
+tags: featured
 author:
 ---
 
