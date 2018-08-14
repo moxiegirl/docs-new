@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Register an application on App.co
+title: 4 Register an application on App.co
 subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
 author:
 ---

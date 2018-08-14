@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: "Why build a Blockstack DApp?"
+title: "1 Why build a Blockstack DApp?"
 subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
 author:
 tags: featured

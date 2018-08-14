@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Develop an idea and fund it
+title: 2 Develop an idea and fund it
 subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
 author:
 tags: feature

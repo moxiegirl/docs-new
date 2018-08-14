@@ -15,3 +15,11 @@
   docs:
   - apis/jsdocs/index
   - docs/faq
+  - docs/glossary
+
+- title: Contributing
+  docs:
+  - docs/contribute
+  - docs/issues
+  - docs/pullrequest
+  - docs/community

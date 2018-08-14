@@ -3,6 +3,8 @@
   - newinternet/overview
   - newinternet/responsibility
   - newinternet/privacy
+  - newinternet/community
+
 
 - title: Get started
   docs:
@@ -10,3 +12,7 @@
   - newinternet/ids-introduction
   - newinternet/findapps
   - newinternet/install
+
+- title: Reference
+  docs:
+  - newinternet/glossary
